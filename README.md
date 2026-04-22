@@ -71,19 +71,32 @@ cd Aura_X
 chmod +x *
 pip install -r requirements.txt
 
+
+---
+
+## 🖥️ Supported Environments
+
+Aura-X (AXS4) is engineered to provide a seamless terminal experience across professional development and security platforms:
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" alt="VSCode"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Termux.svg" width="40" alt="Termux"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" width="80" alt="Kali Linux">
+</p>
+
+<p align="center">
+  Fully optimized for <b>Visual Studio Code</b>, <b>Termux</b>, and <b>Kali Linux</b> environments.
+</p>
+
 ---
 
 ## 📧 Contact & Support
 
-If you have any inquiries, suggestions, or need access to the **Aura-X Premium Suite**, feel free to reach out directly via email:
+For any inquiries, bug reports, or premium access, feel free to contact us:
 
+**Email:** [aura-x.support@gmail.com](mailto:aura-x.support@gmail.com)
+
+---
 <p align="center">
-  <a href="mailto:aura-x.support@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Us-aura--x.support@gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=black" alt="Email Support">
-  </a>
+  Built with Precision by <strong>Julius</strong> | 2026 🐼
 </p>
-
-<p align="center">
-  <strong>Julius | Aura-X Lead Developer</strong>
-</p>
-
