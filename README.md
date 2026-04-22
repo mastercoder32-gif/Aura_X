@@ -71,32 +71,31 @@ cd Aura_X
 chmod +x *
 pip install -r requirements.txt
 
+echo '# 🛡️ AURA-X (AXS4) Framework
+
+![Aura-X Logo](https://i.ibb.co/zWR4Z6Df/168999.jpg)
+
+### The Next-Gen High-Precision Vulnerability Assessment & Reconnaissance Shield
 
 ---
 
 ## 🖥️ Supported Environments
 
-Aura-X (AXS4) is engineered to provide a seamless terminal experience across professional development and security platforms:
+* **Visual Studio Code**
+![VSCode](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" alt="VSCode"> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Termux.svg" width="40" alt="Termux"> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" width="80" alt="Kali Linux">
-</p>
+* **Termux**
+![Termux](https://upload.wikimedia.org/wikipedia/commons/b/b5/Termux.svg)
 
-<p align="center">
-  Fully optimized for <b>Visual Studio Code</b>, <b>Termux</b>, and <b>Kali Linux</b> environments.
-</p>
+* **Kali Linux**
+![Kali](https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg)
 
 ---
 
 ## 📧 Contact & Support
 
-For any inquiries, bug reports, or premium access, feel free to contact us:
-
-**Email:** [aura-x.support@gmail.com](mailto:aura-x.support@gmail.com)
+**Email:** aura-x.support@gmail.com
 
 ---
-<p align="center">
-  Built with Precision by <strong>Julius</strong> | 2026 🐼
-</p>
+Built with Precision by **Julius** | 2026 🐼' > README.md && git add README.md && git commit -m "Fix: Final Markdown only version" && git push
+
