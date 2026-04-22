@@ -71,26 +71,19 @@ cd Aura_X
 chmod +x *
 pip install -r requirements.txt
 
-<br><br>
-<div align="center">
-  <table style="border: 2px solid #D4AF37; border-radius: 15px; background-color: #000; width: 100%;">
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <h3 style="color: #D4AF37; margin-bottom: 10px;">✨ Official Support & Inquiries</h3>
-        <p style="color: #ffffff; font-size: 16px;">
-          Have a question or need a custom security audit? 
-          <br>Reach out to the <b>Aura-X</b> team via our official channel.
-        </p>
-        <br>
-        <a href="mailto:aura-x.support@gmail.com" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/Contact_Us-aura--x.support@gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=black" alt="Email Support">
-        </a>
-        <br><br>
-        <p style="color: #888; font-size: 12px;">
-          <i>Fast responses. Professional expertise. Guaranteed security.</i>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+---
+
+## 📧 Contact & Support
+
+If you have any inquiries, suggestions, or need access to the **Aura-X Premium Suite**, feel free to reach out directly via email:
+
+<p align="center">
+  <a href="mailto:aura-x.support@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Us-aura--x.support@gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=black" alt="Email Support">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Julius | Aura-X Lead Developer</strong>
+</p>
 
